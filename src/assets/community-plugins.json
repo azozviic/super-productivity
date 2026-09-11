@@ -159,20 +159,20 @@
     "authorUrl": "https://github.com/nekoritsme",
     "stars": 0
   },
-  {
-    "name": "Joplin Notes Sync",
-    "shortDescription": "One-way sync of project notes (and optional two-way task notes) to Joplin notebooks. Desktop only.",
-    "url": "https://github.com/BigWebstas/SuperProd-Joplin-Sync",
-    "author": "BigWebstas",
-    "authorUrl": "https://github.com/BigWebstas",
-    "stars": 3
-  },
-  {
+    {
     "name": "Bulk Add Tasks",
     "shortDescription": "Bulk-create Super Productivity tasks from pasted text, with project headings, subtasks, existing tags, notes and preview validation.",
     "url": "https://github.com/InitialCrow/bulk-add-tasks-plugin",
     "author": "InitialCrow",
     "authorUrl": "https://github.com/InitialCrow",
+    "stars": 0
+  },
+  {
+    "name": "URL Bookmarks",
+    "shortDescription": "Save and open important websites directly inside Super Productivity.",
+    "url": "https://github.com/azozviic/super-productivity-url-bookmarks",
+    "author": "azozviic",
+    "authorUrl": "https://github.com/azozviic",
     "stars": 0
   }
 ]
