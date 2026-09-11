@@ -73,7 +73,7 @@
   },
   {
     "name": "Dashboard",
-    "shortDescription": "A lightweight dashboard plugin that visualizes time tracked, completed tasks, overdue items, and project/tag breakdowns within a user‑defined date range, with live time tracking and chart share/export. It ships as a self-contained HTML/JavaScript widget with no external dependencies and is styled to support light/dark themes.",
+    "shortDescription": "A lightweight dashboard plugin that visualizes time tracked, completed tasks, overdue items, and project/tag breakdowns within a user-defined date range, with live time tracking and chart share/export. It ships as a self-contained HTML/JavaScript widget with no external dependencies and is styled to support light/dark themes.",
     "url": "https://github.com/ahanel13/sp-dashboard",
     "author": "ahanel13",
     "authorUrl": "https://github.com/ahanel13",
@@ -173,6 +173,14 @@
     "url": "https://github.com/InitialCrow/bulk-add-tasks-plugin",
     "author": "InitialCrow",
     "authorUrl": "https://github.com/InitialCrow",
+    "stars": 0
+  },
+  {
+    "name": "URL Bookmarks",
+    "shortDescription": "Save and open important websites directly inside Super Productivity.",
+    "url": "https://github.com/azozviic/super-productivity-url-bookmarks",
+    "author": "azozviic",
+    "authorUrl": "https://github.com/azozviic",
     "stars": 0
   }
 ]
