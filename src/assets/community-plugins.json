@@ -73,7 +73,7 @@
   },
   {
     "name": "Dashboard",
-    "shortDescription": "A lightweight dashboard plugin that visualizes time tracked, completed tasks, overdue items, and project/tag breakdowns within a user‑defined date range, with live time tracking and chart share/export. It ships as a self-contained HTML/JavaScript widget with no external dependencies and is styled to support light/dark themes.",
+    "shortDescription": "A lightweight dashboard plugin that visualizes time tracked, completed tasks, overdue items, and project/tag breakdowns within a user-defined date range, with live time tracking and chart share/export. It ships as a self-contained HTML/JavaScript widget with no external dependencies and is styled to support light/dark themes.",
     "url": "https://github.com/ahanel13/sp-dashboard",
     "author": "ahanel13",
     "authorUrl": "https://github.com/ahanel13",
@@ -159,7 +159,15 @@
     "authorUrl": "https://github.com/nekoritsme",
     "stars": 0
   },
-    {
+  {
+    "name": "Joplin Notes Sync",
+    "shortDescription": "One-way sync of project notes (and optional two-way task notes) to Joplin notebooks. Desktop only.",
+    "url": "https://github.com/BigWebstas/SuperProd-Joplin-Sync",
+    "author": "BigWebstas",
+    "authorUrl": "https://github.com/BigWebstas",
+    "stars": 3
+  },
+  {
     "name": "Bulk Add Tasks",
     "shortDescription": "Bulk-create Super Productivity tasks from pasted text, with project headings, subtasks, existing tags, notes and preview validation.",
     "url": "https://github.com/InitialCrow/bulk-add-tasks-plugin",
